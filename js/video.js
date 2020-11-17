@@ -65,6 +65,6 @@ document.querySelector("#old").addEventListener("click", function() {
 });
 
 document.querySelector("#original").addEventListener("click", function() {
-	video.classList.remove("#oldTime");
+	video.classList.remove(#oldTime");
 });
 	
